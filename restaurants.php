@@ -57,7 +57,7 @@ session_start();
                 <div class="container">
                     <ul class="row links">
                        
-                        <li class="col-xs-12 col-sm-4 link-item active"><span>1</span><a href="#">Please Choose Restaurant</a></li>
+                        <li class="col-xs-12 col-sm-4 link-item active"><span>1</span><a href="#">Pleaseeeeeeeeeeeee Choose Restaurant</a></li>
                         <li class="col-xs-12 col-sm-4 link-item"><span>2</span><a href="#">Pick Your favorite food</a></li>
                         <li class="col-xs-12 col-sm-4 link-item"><span>3</span><a href="#">Order and Pay</a></li>
                     </ul>

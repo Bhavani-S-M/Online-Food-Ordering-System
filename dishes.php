@@ -64,7 +64,7 @@ include_once 'product-action.php';
                       
 
                         
-                        <li class="col-xs-12 col-sm-4 link-item"><span>1</span><a href="restaurants.php">Please Choose your Restaurant</a></li>
+                        <li class="col-xs-12 col-sm-4 link-item"><span>1</span><a href="restaurants.php">Please Choose  Restaurant</a></li>
                         <li class="col-xs-12 col-sm-4 link-item active"><span>2</span><a href="dishes.php?res_id=<?php echo $_GET['res_id']; ?>">Pick Your favorite food</a></li>
                         <li class="col-xs-12 col-sm-4 link-item"><span>3</span><a href="#">Order and Pay</a></li>
                         
